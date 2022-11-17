@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/uiuxassignment5/static/css/main.aae067c8.css",
-    "main.js": "/uiuxassignment5/static/js/main.d6170b69.js",
+    "main.css": "/uiuxassignment5/static/css/main.1cd0c10c.css",
+    "main.js": "/uiuxassignment5/static/js/main.05434937.js",
     "index.html": "/uiuxassignment5/index.html",
-    "main.aae067c8.css.map": "/uiuxassignment5/static/css/main.aae067c8.css.map",
-    "main.d6170b69.js.map": "/uiuxassignment5/static/js/main.d6170b69.js.map"
+    "main.1cd0c10c.css.map": "/uiuxassignment5/static/css/main.1cd0c10c.css.map",
+    "main.05434937.js.map": "/uiuxassignment5/static/js/main.05434937.js.map"
   },
   "entrypoints": [
-    "static/css/main.aae067c8.css",
-    "static/js/main.d6170b69.js"
+    "static/css/main.1cd0c10c.css",
+    "static/js/main.05434937.js"
   ]
 }
