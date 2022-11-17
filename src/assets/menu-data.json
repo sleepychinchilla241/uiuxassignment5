@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Plain Bagel", 
+        "description": "Choose from a variety of bagels including plain, whole wheat, spinach, cinnamon sugar, and everything", 
+        "categories": "Bagels",
+        "price": 0.95,
+        "image": "./assets/plain.jpg"
+    },
+    {
+        "name": "Bagel with Butter", 
+        "description": "Choose from a variety of bagels including plain, whole wheat, spinach, cinnamon sugar, and everything", 
+        "categories": "Bagels",
+        "price": 1.49,
+        "image": "./assets/butter.jpg"
+    },
+    {
+        "name": "Bagel with Cream Cheese", 
+        "description": "Choose from a variety of bagels including plain, whole wheat, spinach, cinnamon sugar, and everything", 
+        "categories": "Bagels",
+        "price": 2.09,
+        "image": "./assets/cheese.jpg"
+    },
+    {
+        "name": "Bagel with Lox", 
+        "description": "Choose from a variety of bagels including plain, whole wheat, spinach, cinnamon sugar, and everything", 
+        "categories": "Bagels",
+        "price": 3.39,
+        "image": "./assets/lox.jpg"
+    },
+    {
+        "name": "Egg and cheese sandwich", 
+        "description": "Choose from a variety of bagels, whole wheat bread, or a croissant", 
+        "categories": "Sandwiches",
+        "price": 3.45,
+        "image": "./assets/egg.jpeg"
+    },
+    {
+        "name": "Muffin", 
+        "description": "Choice of chocolate chip, blueberry, corn, and lemon poppy seed",
+        "categories": "Bakery",
+        "price": 1.99,
+        "image": "./assets/muffins.jpg"
+    },
+    {
+        "name": "Falafel sandwich", 
+        "description": "Falafel, spring mix salad, tomato, and cucumber yogurt sauce on a choice of rosemary foccacia, rye bread, whole wheat bread, or a wrap", 
+        "categories": "Sandwiches",
+        "price": 4.99,
+        "image": "./assets/falafel.jpg"
+    },
+    {
+        "name": "BLT Sandwich", 
+        "description": "Bacon, lettuce, and tomatoes on a choice of rosemary foccacia, rye bread, whole wheat bread, or a wrap", 
+        "categories": "Sandwiches",
+        "price": 3.45,
+        "image": "./assets/blt.jpg"
+    },
+    {
+        "name": "Caesar Salad", 
+        "description": "Choice of Greek, Italian, Caesar, Oil and Vinegar, Raspberry Poppy Seed, and Honey Mustard dressing", 
+        "categories": "Salads",
+        "price": 3.85,
+        "image": "./assets/caesar.jpg"
+    },
+    {
+        "name": "House Salad", 
+        "description": "Choice of Greek, Italian, Caesar, Oil and Vinegar, Raspberry Poppy Seed, and Honey Mustard dressing", 
+        "categories": "Salads",
+        "price": 3.85,
+        "image": "./assets/house.jpg"
+    },
+    {
+        "name": "Personal Pizza", 
+        "description": "Choose your toppings from cheese, olives, pepperoni, sausages, mushrooms, bell peppers, and spinach",
+        "categories": "American",
+        "price": 4.99,
+        "image": "./assets/pizza.jpeg"
+    },
+    {
+        "name": "Hamburger", 
+        "description": "Canadian bison meat patty with lettuce, tomato, and onions on an English muffin. Served with fries", 
+        "categories": "American",
+        "price": 7.54,
+        "image": "./assets/hamburger.jpg"
+    }
+]

@@ -1,38 +1,51 @@
 .App {
+  background-color: #540202;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-justify: center;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Contents {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  grid-template-columns: 15rem 25rem 10rem;
+  grid-gap: 0.5rem;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  text-align: center;
 }
 
-.App-link {
-  color: #61dafb;
+.FilterList {
+  margin-left: 2.5rem;
+  display: flex;
+  text-align: left;
+  width: 15rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.MenuGrid {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  grid-gap: 1%;
+  justify-content: center;
+  grid-auto-rows: max-content;
+  margin-bottom: 2rem;
+}
+
+.MenuItem {
+  text-align: center;
+  background-color: #ffde88;
+  color: #540202;
+}
+
+.addToCartPanel {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.cartButton {
+  width: 2rem;
+  height: 2rem;
 }
