@@ -145,11 +145,11 @@ function App() {
 function CartItems(props) {
   return (
     <div className="MenuItem">
-      <img src={props.item.image} alt={props.item.name} style={{width:"50%"}}/>
+      <img src={process.env.PUBLIC_URL + '/' + props.item.image} alt={props.item.name} style={{width:"15rem"}}/>
       <br/>
-      <p> {props.item.name} </p>
+      <h4> {props.item.name} </h4>
       <p> {props.item.description} </p>
-      <p> {props.item.price} </p>
+      <h4> {props.item.price} </h4>
       <p> Category: {props.item.categories} </p> 
       <div className="addToCartPanel">
         <button className="cartButton" onClick={() => props.updateCart(props.index, -1)}> - </button>
